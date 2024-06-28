@@ -10,5 +10,4 @@ pip install requests
 git clone https://github.com/Rabby-X/T-SETUP
 cd T-SETUP
 python T-SETUP.PY
-
 ```
